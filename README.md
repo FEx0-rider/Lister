@@ -1,2 +1,0 @@
-# Lister
-password list maker
